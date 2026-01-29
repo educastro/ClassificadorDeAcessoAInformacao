@@ -41,6 +41,9 @@ Solução para identificar automaticamente pedidos de acesso à informação pre
 - README.md  
   Documentação de pré-requisitos, configuração e execução.
 
+- README.md  
+  Documentação de pré-requisitos, configuração e execução.
+
 - dados/AMOSTRA_e-SIC.xlsx
   Dados sintéticos gerados pela CGDF que devem ser utilizados para avaliação do modelo
 
@@ -53,7 +56,6 @@ Solução para identificar automaticamente pedidos de acesso à informação pre
 
 - Python 3.9 ou superior (recomendado 3.10+)
 - Conexão com a internet
-- Chave de API da OpenAI configurada em variável de ambiente
 - Arquivo XLSX de entrada com os pedidos do e-SIC
 
 ---
