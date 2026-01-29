@@ -41,14 +41,11 @@ Solução para identificar automaticamente pedidos de acesso à informação pre
 - README.md  
   Documentação de pré-requisitos, configuração e execução.
 
-- README.md  
-  Documentação de pré-requisitos, configuração e execução.
+- dados/AMOSTRA_e-SIC.xlsx  
+  Dados sintéticos gerados pela CGDF que devem ser utilizados para avaliação do modelo.
 
-- dados/AMOSTRA_e-SIC.xlsx
-  Dados sintéticos gerados pela CGDF que devem ser utilizados para avaliação do modelo
-
-- dados/AMOSTRA_e-SIC_classificada.xlsx
-  Arquivo contendo resultado da análise após aplicação do modelo nos dados contidos no arquivo AMOSTRA_e-SIC.xlsx
+- dados/AMOSTRA_e-SIC_classificada.xlsx  
+  Arquivo contendo resultado da análise após aplicação do modelo nos dados contidos no arquivo AMOSTRA_e-SIC.xlsx.
 
 ---
 
